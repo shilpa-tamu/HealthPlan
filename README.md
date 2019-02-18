@@ -1,5 +1,5 @@
 # HealthPlan
-Requirement gathering, Use case creation, ERD
+Requirement gathering, Use case creation, ERD, Class Diagram
 
 Objective: To design an efficient system that bolsters DGA Plans to collect funds from signatory companies for DGA Members 
 covering their health insurance and pension benefits. The system should be able to define if any member is eligible to receive 
